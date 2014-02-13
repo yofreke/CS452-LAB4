@@ -7,4 +7,4 @@ or one light in front and one light in back.
 
 The lights have to be different kinds of light exp. specular, diffuse, ambient, phong, etc.
 
-Move the camera using ketboard controls W,A,S,D for up,left,down,right respectively.
+Move the camera using keyboard controls W,A,S,D for up,left,down,right respectively.

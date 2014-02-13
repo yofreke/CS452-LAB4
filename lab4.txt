@@ -5,3 +5,5 @@ Example one light on the left side of the cube and one light on the right,
 or one light on the bottom and one light ont the top. 
 
 The lights have to be different kinds of light exp. specular, diffuse, ambient, phong, etc.
+
+Move the camera using ketboard controls W,A,S,D for up,left,down,right respectively.

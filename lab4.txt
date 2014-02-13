@@ -5,6 +5,6 @@ Example one light on the left side of the cube and one light on the right,
 or one light on the bottom and one light on the top,
 or one light in front and one light in back.
 
-The lights have to be different kinds of light exp. specular, diffuse, ambient, phong, etc.
+The lights have to be different kinds of light examples: specular, diffuse, ambient, phong, etc.
 
 Move the camera using keyboard controls W,A,S,D for up,left,down,right respectively.

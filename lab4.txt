@@ -1,10 +1,8 @@
-Create a Cube.
+You are to create a cube.
 
-Have two lights to opposite side of the cube from eachother.
-Example one light on the left side of the cube and one light on the right,
-or one light on the bottom and one light on the top,
-or one light in front and one light in back.
-
-The lights have to be different kinds of light examples: specular, diffuse, ambient, phong, etc.
-
-Move the camera using keyboard controls W,A,S,D for up,left,down,right respectively.
+-The cube should have two lights surrounding it, on opposing sides from one another.
+    -For example, the lights could be on the left and right, top and bottom, or back and front.
+-The lights should be of two different kinds.
+    -Examples are: specular, diffuse, ambient, phong, etc
+-The camera should be adjusted via keyboard controls
+    -W,A,S, and D should move the camera up, down, left, and right respectively.

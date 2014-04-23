@@ -18,7 +18,7 @@ using namespace glm;
 #include "shader.hpp"
 #include "texture.hpp"
 #include "objloader.hpp"
-#include "vboindexer.hpp"
+// #include "vboindexer.hpp"
 // compile g++ -g  -lGL -lGLEW -lglfw tutorial08.cpp shader.cpp texture.cpp objloader.cpp vboindexer.cpp
 
 int main( void )
@@ -131,10 +131,6 @@ int main( void )
 		glUseProgram(programID);
 
 		glm::vec3 chestPos = glm::vec3(0, 3, 0);
-
-		// Compute the MVP matrix from keyboard and mouse input
-		// computeMatricesFromInputs();
-		// glm::mat4 ProjectionMatrix = getProjectionMatrix();
 
 		glm::mat4 ProjectionMatrix = glm::perspective(45.0f, 4.0f / 3.0f, 0.1f, 100.0f);
 		// Camera matrix

@@ -18,8 +18,6 @@ using namespace glm;
 #include "shader.hpp"
 #include "texture.hpp"
 #include "objloader.hpp"
-// #include "vboindexer.hpp"
-// compile g++ -g  -lGL -lGLEW -lglfw tutorial08.cpp shader.cpp texture.cpp objloader.cpp vboindexer.cpp
 
 int main( void )
 {
